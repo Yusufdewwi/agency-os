@@ -1,0 +1,11 @@
+Agency_OS_Full_Stack/
+  frontend/
+    index.html              # exact original latest preview, unchanged
+    api-client.js           # authenticated API helper scaffold
+    config.example.js       # public-only browser config placeholders
+  backend/
+    src/                    # Express API
+    supabase/migrations/    # SQL schema + RLS + bootstrap
+    .env.example            # Supabase + Google placeholders
+  START-WINDOWS.ps1
+  README-AR.md
